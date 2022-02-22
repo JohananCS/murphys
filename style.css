@@ -1,0 +1,28 @@
+.ui.borderless.topmenu.menu {
+  /*background-color: #f5f5f5;*/
+  box-shadow: none;
+  border: none;
+  /*
+  padding-bottom: 5px;
+  padding-top: 2px;
+  font-size: 16px;
+  */
+}
+
+.middle {
+  background: url("http://courses.ics.hawaii.edu/ics314f20/morea/ui-frameworks/murphys-front.jpg");
+  height: 500px;
+  padding-top: 150px;
+  color: white;
+  font-weight: 700;
+  font-size: 15px;
+  text-align: left;
+}
+
+.footer-background {
+  background-color: #004030;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
